@@ -104,6 +104,30 @@ body{
     text-align: justify;
 }
 
+p {
+    color: lightgray;
+}
+
+.titlesProgramming {
+    font-size: 20pt;
+    color: lightgray;
+    padding-left: 2%
+}
+
+#programmingContainer {
+    padding-top: 5%;
+}
+
+img {
+    /* margin: 5%;
+    align-content: center; */
+}
+
+.prIcon {
+    margin: 5%;
+    align-content: center;
+}
+
 
 
 
