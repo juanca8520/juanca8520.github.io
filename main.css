@@ -1,6 +1,8 @@
 body{
     background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)) , url("img/mountain.jpg");
     background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 #title { 
@@ -135,6 +137,10 @@ p {
     left: 0;
     width: 100%;
     height: 100%;
+  }
+
+  .panel-title a{
+      color: lightgray;
   }
 
 
