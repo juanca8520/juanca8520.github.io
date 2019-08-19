@@ -143,6 +143,34 @@ p {
       color: lightgray;
   }
 
+  .emailContact {
+      padding-top: 5%;
+      color: white;
+      font-size: 8pt;
+  }
+  
+  .phoneContact {
+    color: white;
+    font-size: 8pt;
+  }
+
+  .audio-container {
+      text-align: center;
+  }
+
+  #containerExperience {
+    padding-top: 2.5%;
+    padding-left: 5%
+  }
+
+  #languagesContainer {
+      padding: 5%;
+  }
+
+  .languagesName {
+      color: lightgray;
+  }
+
 
 
 
